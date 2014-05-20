@@ -24,3 +24,9 @@ Toying around with the "Replicate in Space" to create translucent circles, which
 processed by a gaussian blur and a dithering core image kernel.
 
 ![Preview](preview/rotating_circles.gif)
+
+## Blurred Camera
+
+No code in this. Just routing the camera input through two bulge effects with slowly changing positions controlled by oscillators, then a bloom effect, a gaussian blur and finally some colouring. Look there is an alien in your camera. No, it was just a end ninetyish alternative music video.
+
+![Preview](preview/blurred_camera.gif)
