@@ -18,3 +18,9 @@ This is a spiral image rotated by 360 degrees with a combination of effects givi
 
 ![Preview](preview/swirl.gif)
 
+## Rotating Circles
+
+Toying around with the "Replicate in Space" to create translucent circles, which are then
+processed by a gaussian blur and a dithering core image kernel.
+
+![Preview](preview/rotating_circles.gif)
